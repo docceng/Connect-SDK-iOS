@@ -3,9 +3,9 @@ Connect SDK is an open source framework that unifies device discovery and connec
 
 For more information, visit our [website](http://www.connectsdk.com/).
 
-* [General information](http://www.connectsdk.com/discover/)
-* [Documentation & Articles](http://www.connectsdk.com/docs/ios/)
-* [API Documentation](http://www.connectsdk.com/apis/ios/)
+* [General information about Connect SDK](http://www.connectsdk.com/discover/)
+* [Platform documentation & FAQs](http://www.connectsdk.com/docs/ios/)
+* [API documentation](http://www.connectsdk.com/apis/ios/)
 
 ##Dependencies
 This project has the following dependencies.
@@ -47,6 +47,7 @@ Add `pod 'ConnectSDK'` to your podfile and run `pod install`.
 ##License
 Copyright (c) 2013 LG Electronics.
 
+```
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
@@ -58,3 +59,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+```
