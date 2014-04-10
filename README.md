@@ -44,6 +44,17 @@ Add `pod 'ConnectSDK'` to your podfile and run `pod install`.
 * Developer Support: support@connectsdk.com
 * Partnerships: partners@connectsdk.com
 
+##Credits
+Connect SDK for iOS makes use of the following projects, some of which are open-source.
+
+* [Google Cast SDK](https://developers.google.com/cast/)
+  - [Google Cast SDK Additional Developer Terms of Service](https://developers.google.com/cast/docs/terms)
+  - [Google APIs Terms of Service](https://developers.google.com/terms/)
+* [SocketRocket](https://github.com/Square/SocketRocket) (Apache License, Version 2.0)
+  - has been modified for stability & to add self-signed certificate support
+* [GCDWebServer](https://github.com/swisspol/GCDWebServer) (MIT)
+* [XMLReader](https://github.com/amarcadet/XMLReader) (MIT)
+
 ##License
 Copyright (c) 2013-2014 LG Electronics.
 
