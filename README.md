@@ -17,7 +17,7 @@ This project has the following dependencies.
 
 ##Including Connect SDK in your app
 
-###Use cocoapods
+###Use CocoaPods
 Add `pod 'ConnectSDK'` to your podfile and run `pod install`.
 
 ###Link to your project
@@ -38,11 +38,11 @@ Add `pod 'ConnectSDK'` to your podfile and run `pod install`.
 6. Be sure to copy the ConnectSDKStrings.strings file into your project
 
 ##Contact
-* Twitter [@ConnectSDK](https://www.twitter.com/ConnectSDK)
+* Twitter: [@ConnectSDK](https://www.twitter.com/ConnectSDK)
 * Ask a question with the "tv" tag on [Stack Overflow](http://stackoverflow.com/tags/tv)
-* General Inquiries info@connectsdk.com
-* Developer Support support@connectsdk.com
-* Partnerships partners@connectsdk.com
+* General Inquiries: info@connectsdk.com
+* Developer Support: support@connectsdk.com
+* Partnerships: partners@connectsdk.com
 
 ##License
 Copyright (c) 2013 LG Electronics.
