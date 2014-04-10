@@ -45,7 +45,7 @@ Add `pod 'ConnectSDK'` to your podfile and run `pod install`.
 * Partnerships: partners@connectsdk.com
 
 ##License
-Copyright (c) 2013 LG Electronics.
+Copyright (c) 2013-2014 LG Electronics.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
